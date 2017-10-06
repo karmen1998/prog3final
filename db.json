@@ -1,0 +1,883 @@
+{
+  "cars": [
+    {
+      "title": "Audi A4, 2004 թ. Pakovi$6,500",
+      "price": "$6500",
+      "year": "2004",
+      "url": "/item/7947447",
+      "image": "//s.list.am/g/845/20840845.jpg"
+    },
+    {
+      "title": "Nissan AD, 2011 թ.$4,200",
+      "price": "$4200",
+      "year": "2011",
+      "url": "/item/8138062",
+      "image": "//s.list.am/g/569/21544569.jpg"
+    },
+    {
+      "title": "Opel Astra G 1.6 Простой Мотор / Նոր Բերված2,900 ֏",
+      "price": "2900 ֏",
+      "year": "",
+      "url": "/item/8189719",
+      "image": "//s.list.am/g/162/21732162.jpg"
+    },
+    {
+      "title": "Toyota Camry, 2008 թ.$8,500",
+      "price": "$8500",
+      "year": "2008",
+      "url": "/item/8194313",
+      "image": "//s.list.am/g/714/21778714.jpg"
+    },
+    {
+      "title": "Nissan Note, 2008 թ. Monitor klimat contril chip ban3,200 ֏",
+      "price": "3200 ֏",
+      "year": "2008",
+      "url": "/item/8183991",
+      "image": "//s.list.am/g/647/21775647.jpg"
+    },
+    {
+      "title": "Lexus ES, 2012 թ.$24,000",
+      "price": "$24000",
+      "year": "2012",
+      "url": "/item/8122706",
+      "image": "//s.list.am/g/512/21486512.jpg"
+    },
+    {
+      "title": "Mercedes G55 AMG 2008թ փոխանակում Lexus GX460 prado GX 460 G500 G63 G550 G$52,000",
+      "price": "$52000",
+      "year": "",
+      "url": "/item/7607618",
+      "image": "//s.list.am/g/350/21784350.jpg"
+    },
+    {
+      "title": "Bmw x5, 2009 թ. shat shtaap$17,500",
+      "price": "$17500",
+      "year": "2009",
+      "url": "/item/8122162",
+      "image": "//s.list.am/g/620/21484620.jpg"
+    },
+    {
+      "title": "Volkswagen Crafter, 2007 թ. Sprinter Ford Mersedec$25,000",
+      "price": "$25000",
+      "year": "2007",
+      "url": "/item/8203251",
+      "image": "//s.list.am/g/662/21781662.jpg"
+    },
+    {
+      "title": "Toyota Mark 2 JAPAN$3,000",
+      "price": "$3000",
+      "year": "",
+      "url": "/item/7892803",
+      "image": "//s.list.am/g/955/20641955.jpg"
+    },
+    {
+      "title": "Volkswagen Golf GTI, 1993 թ.$2,500",
+      "price": "$2500",
+      "year": "1993",
+      "url": "/item/8202650",
+      "image": "//s.list.am/g/130/21779130.jpg"
+    },
+    {
+      "title": "Infiniti G35, 2004 թ. Tuning$4,999",
+      "price": "$4999",
+      "year": "2004",
+      "url": "/item/8016354",
+      "image": "//s.list.am/g/181/21724181.jpg"
+    },
+    {
+      "title": "Nissan Tida latio 2007 թ.$3,450",
+      "price": "$3450",
+      "year": "2007",
+      "url": "/item/8139767",
+      "image": "//s.list.am/g/076/21674076.jpg"
+    },
+    {
+      "title": "Nissan Skyline, 2004 թ. Tuning. Idealakan5,000 ֏",
+      "price": "5000 ֏",
+      "year": "2004",
+      "url": "/item/8047906",
+      "image": "//s.list.am/g/295/21724295.jpg"
+    },
+    {
+      "title": "Land Rover Freelander, 2000 թ.$3,500",
+      "price": "$3500",
+      "year": "2000",
+      "url": "/item/8190833",
+      "image": "//s.list.am/g/867/21736867.jpg"
+    },
+    {
+      "title": "Nissan Note 2008 թ. + 1.5l chpov banali, calvox haeliner Pioner mag3,200 ֏",
+      "price": "3200 ֏",
+      "year": "2008",
+      "url": "/item/8025462",
+      "image": "//s.list.am/g/209/21385209.jpg"
+    },
+    {
+      "title": "PaGoVi PaKoVi 1000 ic 2000 KaNxAvJaRoV$1,000",
+      "price": "$1000",
+      "year": "",
+      "url": "/item/8065156",
+      "image": "//s.list.am/g/077/21433077.jpg"
+    },
+    {
+      "title": "Suzuki SX4, 2008 թ.$123,456",
+      "price": "$123456",
+      "year": "2008",
+      "url": "/item/8013471",
+      "image": "//s.list.am/g/169/21081169.jpg"
+    },
+    {
+      "title": "Honda Elysion 2004-2005$4,300",
+      "price": "$4300",
+      "year": "",
+      "url": "/item/8154880",
+      "image": "//s.list.am/g/771/21604771.jpg"
+    },
+    {
+      "title": "Mercedes-Benz 320, 2003 թ.",
+      "price": "",
+      "year": "2003",
+      "url": "/item/7890765",
+      "image": "//s.list.am/g/323/21375323.jpg"
+    },
+    {
+      "title": "Opel Astra G 1.6 Простой Мотор / Նոր Բերված2,900 ֏",
+      "price": "2900 ֏",
+      "year": "",
+      "url": "/item/8189719",
+      "image": "//s.list.am/g/162/21732162.jpg"
+    },
+    {
+      "title": "VAZ / ВАЗ / Lada 2110, 2010 թ. Lux priora 2115 2114$3,300",
+      "price": "$3300",
+      "year": "2010",
+      "url": "/item/8151862",
+      "image": "//s.list.am/g/957/21593957.jpg"
+    },
+    {
+      "title": "Mitsubishi Airtrek, 2001 թ. 2.0l prastoy mator$4,600",
+      "price": "$4600",
+      "year": "2001",
+      "url": "/item/5779946",
+      "image": "//s.list.am/g/470/20339470.jpg"
+    },
+    {
+      "title": "Toyota Camry SE black 2010- 2011 թ.$10,000",
+      "price": "$10000",
+      "year": "2011",
+      "url": "/item/7945700",
+      "image": "//s.list.am/g/009/21527009.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 2001 թ. cupe kpoxanakel ejan meqenai hett$3,500",
+      "price": "$3500",
+      "year": "2001",
+      "url": "/item/7984635",
+      "image": "//s.list.am/g/554/21746554.jpg"
+    },
+    {
+      "title": "Mercedes-Benz CLS, 2006 թ.$12,900",
+      "price": "$12900",
+      "year": "2006",
+      "url": "/item/7435699",
+      "image": "//s.list.am/g/669/18920669.jpg"
+    },
+    {
+      "title": "Toyota Camry, 2012 թ.$13,500",
+      "price": "$13500",
+      "year": "2012",
+      "url": "/item/8085486",
+      "image": "//s.list.am/g/360/21349360.jpg"
+    },
+    {
+      "title": "BMW 3, 2004 թ.$3,700",
+      "price": "$3700",
+      "year": "2004",
+      "url": "/item/7981520",
+      "image": "//s.list.am/g/064/21378064.jpg"
+    },
+    {
+      "title": "Honda Fit, 2004 թ. gazov$2,500",
+      "price": "$2500",
+      "year": "2004",
+      "url": "/item/7748722",
+      "image": "//s.list.am/g/748/20445748.jpg"
+    },
+    {
+      "title": "Nissan March, 2004 թ.$2,150",
+      "price": "$2150",
+      "year": "2004",
+      "url": "/item/8187186",
+      "image": "//s.list.am/g/314/21723314.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 1999 թ.$4,200",
+      "price": "$4200",
+      "year": "1999",
+      "url": "/item/8197742",
+      "image": "//s.list.am/g/302/21761302.jpg"
+    },
+    {
+      "title": "Opel Combo, 2008 թ.$4,100",
+      "price": "$4100",
+      "year": "2008",
+      "url": "/item/8158010",
+      "image": "//s.list.am/g/524/21632524.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 1996 թ.$3,400",
+      "price": "$3400",
+      "year": "1996",
+      "url": "/item/8203389",
+      "image": "//s.list.am/g/168/21782168.jpg"
+    },
+    {
+      "title": "Mercedes benz clk, 2001$4,200",
+      "price": "$4200",
+      "year": "",
+      "url": "/item/7974679",
+      "image": "//s.list.am/g/064/21400064.jpg"
+    },
+    {
+      "title": "Mercedes-Benz E, 2003 թ.$8,200",
+      "price": "$8200",
+      "year": "2003",
+      "url": "/item/8081177",
+      "image": "//s.list.am/g/878/21612878.jpg"
+    },
+    {
+      "title": "Nissan Teana, 2006 թ.$4,100",
+      "price": "$4100",
+      "year": "2006",
+      "url": "/item/8096782",
+      "image": "//s.list.am/g/959/21391959.jpg"
+    },
+    {
+      "title": "Nissan Tiida, 2008 թ.$3,800",
+      "price": "$3800",
+      "year": "2008",
+      "url": "/item/7567544",
+      "image": "//s.list.am/g/251/20955251.jpg"
+    },
+    {
+      "title": "Opel Astra H, 2008թ. նաև Փոխանակում, գինը պայմանագրային",
+      "price": "",
+      "year": "",
+      "url": "/item/8141845",
+      "image": "//s.list.am/g/089/21563089.jpg"
+    },
+    {
+      "title": "Land Rover Freelander, 2000 թ.$3,500",
+      "price": "$3500",
+      "year": "2000",
+      "url": "/item/8190833",
+      "image": "//s.list.am/g/867/21736867.jpg"
+    },
+    {
+      "title": "Honda Fit, 2004 թ. gazov$2,500",
+      "price": "$2500",
+      "year": "2004",
+      "url": "/item/7748722",
+      "image": "//s.list.am/g/748/20445748.jpg"
+    },
+    {
+      "title": "Infiniti QX4, 2001 թ., poxanakum, BMW, AUDI, Dodge, Hyundai, Honda, Jeep, Suzuki$7,200",
+      "price": "$7200",
+      "year": "2001",
+      "url": "/item/8140771",
+      "image": "//s.list.am/g/260/21596260.jpg"
+    },
+    {
+      "title": "Mercedes-Benz ML 320$5,500",
+      "price": "$5500",
+      "year": "",
+      "url": "/item/7703517",
+      "image": "//s.list.am/g/400/21581400.jpg"
+    },
+    {
+      "title": "BMW 3, 2004 թ. Idealakan4,100 ֏",
+      "price": "4100 ֏",
+      "year": "2004",
+      "url": "/item/8176362",
+      "image": "//s.list.am/g/076/21741076.jpg"
+    },
+    {
+      "title": "Mitsubishi Airtrek, 2001 թ. 2.0l prastoy mator$4,600",
+      "price": "$4600",
+      "year": "2001",
+      "url": "/item/5779946",
+      "image": "//s.list.am/g/470/20339470.jpg"
+    },
+    {
+      "title": "Nissan March, 2002 թ.$2,500",
+      "price": "$2500",
+      "year": "2002",
+      "url": "/item/7759499",
+      "image": "//s.list.am/g/929/21629929.jpg"
+    },
+    {
+      "title": "Mitsubishi Pajero IO, 1998 թ. Poxanakum$3,500",
+      "price": "$3500",
+      "year": "1998",
+      "url": "/item/8003041"
+    },
+    {
+      "title": "Ford Transit, 1999 թ. Poxanakum$5,000",
+      "price": "$5000",
+      "year": "1999",
+      "url": "/item/8111276"
+    },
+    {
+      "title": "Honda Elysion, 2004 թ. 2.2 gaz injektor 4500$4,500",
+      "price": "$4500",
+      "year": "2004",
+      "url": "/item/8107164",
+      "image": "//s.list.am/g/728/21428728.jpg"
+    },
+    {
+      "title": "Mercedes G55 AMG 2008թ փոխանակում Lexus GX460 prado GX 460 G500 G63 G550 G$52,000",
+      "price": "$52000",
+      "year": "",
+      "url": "/item/7607618",
+      "image": "//s.list.am/g/350/21784350.jpg"
+    },
+    {
+      "title": "Mercedes-Benz S, 1998 թ. POXANAKUM8,500 ֏",
+      "price": "8500 ֏",
+      "year": "1998",
+      "url": "/item/8026520",
+      "image": "//s.list.am/g/980/21782980.jpg"
+    },
+    {
+      "title": "Hyundai ix35, 2011-2012թ. Nor bervac 4x4$13,500",
+      "price": "$13500",
+      "year": "",
+      "url": "/item/8124817",
+      "image": "//s.list.am/g/142/21495142.jpg"
+    },
+    {
+      "title": "Volkswagen Golf 5 GT, 2008 թ.$4,800",
+      "price": "$4800",
+      "year": "2008",
+      "url": "/item/7981582",
+      "image": "//s.list.am/g/076/21164076.jpg"
+    },
+    {
+      "title": "VAZ / ВАЗ / Lada 2109, 1988 թ.$1,400",
+      "price": "$1400",
+      "year": "1988",
+      "url": "/item/7956114",
+      "image": "//s.list.am/g/287/20872287.jpg"
+    },
+    {
+      "title": "Nissan Kix, 2017 թ.$18,800",
+      "price": "$18800",
+      "year": "2017",
+      "url": "/item/8188270",
+      "image": "//s.list.am/g/848/21726848.jpg"
+    },
+    {
+      "title": "Mercedes benz clk, 2001$4,200",
+      "price": "$4200",
+      "year": "",
+      "url": "/item/7974679",
+      "image": "//s.list.am/g/064/21400064.jpg"
+    },
+    {
+      "title": "Niva / Нива 2121, 2007 թ.$4,000",
+      "price": "$4000",
+      "year": "2007",
+      "url": "/item/8123603",
+      "image": "//s.list.am/g/648/21489648.jpg"
+    },
+    {
+      "title": "Subaru forester, 2003 թ. փոխանակում$5,300",
+      "price": "$5300",
+      "year": "2003",
+      "url": "/item/8064043"
+    },
+    {
+      "title": "Lexus ES, 2007 թ.$11,500",
+      "price": "$11500",
+      "year": "2007",
+      "url": "/item/8204508"
+    },
+    {
+      "title": "Opel Combo, 2008 թ.$4,100",
+      "price": "$4100",
+      "year": "2008",
+      "url": "/item/8158010",
+      "image": "//s.list.am/g/524/21632524.jpg"
+    },
+    {
+      "title": "Mercedes E350 Avantgarde$7,700",
+      "price": "$7700",
+      "year": "",
+      "url": "/item/8198050",
+      "image": "//s.list.am/g/425/21762425.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 1996 թ.$3,400",
+      "price": "$3400",
+      "year": "1996",
+      "url": "/item/8203389",
+      "image": "//s.list.am/g/168/21782168.jpg"
+    },
+    {
+      "title": "Վաճառում եմ Mitsubishi Grandis, 2003 թ.$2,700",
+      "price": "$2700",
+      "year": "2003",
+      "url": "/item/7708957",
+      "image": "//s.list.am/g/618/21651618.jpg"
+    },
+    {
+      "title": "Nissan X-Trail, 2002 թ.$4,200",
+      "price": "$4200",
+      "year": "2002",
+      "url": "/item/7717517",
+      "image": "//s.list.am/g/155/21367155.jpg"
+    },
+    {
+      "title": "Ford Transit erkar, 1993 թ. poxanakum$3,500",
+      "price": "$3500",
+      "year": "1993",
+      "url": "/item/8096937",
+      "image": "//s.list.am/g/624/21392624.jpg"
+    },
+    {
+      "title": "Volkswagen Passat CC, 2012 թ.$9,200",
+      "price": "$9200",
+      "year": "2012",
+      "url": "/item/8186921",
+      "image": "//s.list.am/g/428/21722428.jpg"
+    },
+    {
+      "title": "Ikco Iran Cross H30 2016 թ.$7,500",
+      "price": "$7500",
+      "year": "2016",
+      "url": "/item/8146283",
+      "image": "//s.list.am/g/326/21574326.jpg"
+    },
+    {
+      "title": "Toyota Camry SE black 2010- 2011 թ.$10,000",
+      "price": "$10000",
+      "year": "2011",
+      "url": "/item/7945700",
+      "image": "//s.list.am/g/009/21527009.jpg"
+    },
+    {
+      "title": "Honda Fit, 2008 թ. Hor nermucvac$3,600",
+      "price": "$3600",
+      "year": "2008",
+      "url": "/item/8123422",
+      "image": "//s.list.am/g/853/21488853.jpg"
+    },
+    {
+      "title": "Nissan Teana, 2006 թ.$4,100",
+      "price": "$4100",
+      "year": "2006",
+      "url": "/item/8096782",
+      "image": "//s.list.am/g/959/21391959.jpg"
+    },
+    {
+      "title": "Toyota Vitz, 2005 թ. 1.3 motor",
+      "price": "",
+      "year": "2005",
+      "url": "/item/8073444",
+      "image": "//s.list.am/g/532/21601532.jpg"
+    },
+    {
+      "title": "Mercedes-Benz Sprinter, 2003 թ.$9,000",
+      "price": "$9000",
+      "year": "2003",
+      "url": "/item/8174476",
+      "image": "//s.list.am/g/839/21691839.jpg"
+    },
+    {
+      "title": "BMW E46 2005 gazov / sagargeli / poxanagum$4,800",
+      "price": "$4800",
+      "year": "",
+      "url": "/item/8039691",
+      "image": "//s.list.am/g/465/21181465.jpg"
+    },
+    {
+      "title": "Toyota Camry, 2012 թ.$13,500",
+      "price": "$13500",
+      "year": "2012",
+      "url": "/item/8085486",
+      "image": "//s.list.am/g/360/21349360.jpg"
+    },
+    {
+      "title": "Honda Fit, 2004 թ. gazov$2,500",
+      "price": "$2500",
+      "year": "2004",
+      "url": "/item/7748722",
+      "image": "//s.list.am/g/748/20445748.jpg"
+    },
+    {
+      "title": "Nissan Note 2008 թ. + 1.5l chpov banali, calvox haeliner Pioner mag3,200 ֏",
+      "price": "3200 ֏",
+      "year": "2008",
+      "url": "/item/8025462",
+      "image": "//s.list.am/g/209/21385209.jpg"
+    },
+    {
+      "title": "Nissan Tida latio 2007 թ.$3,450",
+      "price": "$3450",
+      "year": "2007",
+      "url": "/item/8139767",
+      "image": "//s.list.am/g/076/21674076.jpg"
+    },
+    {
+      "title": "Audi A4, 1996 թ.$3,200",
+      "price": "$3200",
+      "year": "1996",
+      "url": "/item/8077609"
+    },
+    {
+      "title": "Chevrolet Lacetti, 2008 թ.$2,500",
+      "price": "$2500",
+      "year": "2008",
+      "url": "/item/7661815"
+    },
+    {
+      "title": "Zafira, 2001 թ. Anteri vijakum shat ejan",
+      "price": "",
+      "year": "2001",
+      "url": "/item/6605097"
+    },
+    {
+      "title": "Subaru Tribeca, 2005 թ.$8,000",
+      "price": "$8000",
+      "year": "2005",
+      "url": "/item/7458740"
+    },
+    {
+      "title": "Mercedes-Benz E 350, 2008 / 7 թ.$10,900",
+      "price": "$10900",
+      "year": "7",
+      "url": "/item/8181984",
+      "image": "//s.list.am/g/271/21704271.jpg"
+    },
+    {
+      "title": "Mitsubishi Pajero, 2003 թ.",
+      "price": "",
+      "year": "2003",
+      "url": "/item/7395627",
+      "image": "//s.list.am/g/570/19969570.jpg"
+    },
+    {
+      "title": "Mazda Verisa, 2008 թ.$3,750",
+      "price": "$3750",
+      "year": "2008",
+      "url": "/item/8157919",
+      "image": "//s.list.am/g/055/21616055.jpg"
+    },
+    {
+      "title": "Volkswagen Golf 5 GT, 2008 թ.$4,800",
+      "price": "$4800",
+      "year": "2008",
+      "url": "/item/7981582",
+      "image": "//s.list.am/g/076/21164076.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 2003 թ.$6,000",
+      "price": "$6000",
+      "year": "2003",
+      "url": "/item/8200045",
+      "image": "//s.list.am/g/257/21770257.jpg"
+    },
+    {
+      "title": "Honda Elysion, 2004 թ. 2.2 gaz injektor 4500$4,500",
+      "price": "$4500",
+      "year": "2004",
+      "url": "/item/8107164",
+      "image": "//s.list.am/g/728/21428728.jpg"
+    },
+    {
+      "title": "Honda Fit, 2009 թ. Գերազանց վիճակ, Նոր բերված$3,300",
+      "price": "$3300",
+      "year": "2009",
+      "url": "/item/8187684",
+      "image": "//s.list.am/g/882/21763882.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 2001 թ. cupe kpoxanakel ejan meqenai hett$3,500",
+      "price": "$3500",
+      "year": "2001",
+      "url": "/item/7984635",
+      "image": "//s.list.am/g/554/21746554.jpg"
+    },
+    {
+      "title": "Nissan Tiida, 2006 թ.$3,300",
+      "price": "$3300",
+      "year": "2006",
+      "url": "/item/8183895",
+      "image": "//s.list.am/g/444/21711444.jpg"
+    },
+    {
+      "title": "Nissan Tiida$4,500",
+      "price": "$4500",
+      "year": "",
+      "url": "/item/8189630"
+    },
+    {
+      "title": "Honda Accord, 2003 թ.$4,000",
+      "price": "$4000",
+      "year": "2003",
+      "url": "/item/8179055",
+      "image": "//s.list.am/g/712/21693712.jpg"
+    },
+    {
+      "title": "Mercedes-Benz M, 2000 թ.100,000 ֏",
+      "price": "100000 ֏",
+      "year": "2000",
+      "url": "/item/7350413",
+      "image": "/img/nopic.png"
+    },
+    {
+      "title": "Toyota Mark X, 2006 թ. նոր բերված Հոկտեմբերի 1 ին$4,700",
+      "price": "$4700",
+      "year": "2006",
+      "url": "/item/8110528",
+      "image": "//s.list.am/g/613/21441613.jpg"
+    },
+    {
+      "title": "Daewoo Matiz, 2008 թ.$1,600",
+      "price": "$1600",
+      "year": "2008",
+      "url": "/item/4626634",
+      "image": "//s.list.am/g/760/9166760.jpg"
+    },
+    {
+      "title": "Nissan Skyline, 2004 թ. Tuning. Idealakan5,000 ֏",
+      "price": "5000 ֏",
+      "year": "2004",
+      "url": "/item/8047906",
+      "image": "//s.list.am/g/295/21724295.jpg"
+    },
+    {
+      "title": "Mercedes-Benz 320, 2003 թ.",
+      "price": "",
+      "year": "2003",
+      "url": "/item/7890765",
+      "image": "//s.list.am/g/323/21375323.jpg"
+    },
+    {
+      "title": "Nissan tiida, 2008-2009 թ. restayling full senc gin chka3,450 ֏",
+      "price": "3450 ֏",
+      "year": "",
+      "url": "/item/8201717",
+      "image": "//s.list.am/g/898/21775898.jpg"
+    },
+    {
+      "title": "Mitsubishi Airtrek, 2001 թ. 2.0l prastoy mator$4,600",
+      "price": "$4600",
+      "year": "2001",
+      "url": "/item/5779946",
+      "image": "//s.list.am/g/470/20339470.jpg"
+    },
+    {
+      "title": "Suzuki SX4, 2008 թ.$123,456",
+      "price": "$123456",
+      "year": "2008",
+      "url": "/item/8013471",
+      "image": "//s.list.am/g/169/21081169.jpg"
+    },
+    {
+      "title": "Nissan Tiida, 2008 թ.$3,800",
+      "price": "$3800",
+      "year": "2008",
+      "url": "/item/7567544",
+      "image": "//s.list.am/g/251/20955251.jpg"
+    },
+    {
+      "title": "Honda Freed, 2008 թ. 1.5լ. (7 տեղանոց) Opel zafira ի, mitsubishi grandis ի չափ$3,900",
+      "price": "$3900",
+      "year": "2008",
+      "url": "/item/8110078",
+      "image": "//s.list.am/g/349/21440349.jpg"
+    },
+    {
+      "title": "Nissan Teana, 2006 թ.$4,100",
+      "price": "$4100",
+      "year": "2006",
+      "url": "/item/8096782",
+      "image": "//s.list.am/g/959/21391959.jpg"
+    },
+    {
+      "title": "Toyota Ipsum, 2004 թ. 2005 240s nor berac$4,400",
+      "price": "$4400",
+      "year": "2004",
+      "url": "/item/8117823",
+      "image": "//s.list.am/g/512/21468512.jpg"
+    },
+    {
+      "title": "Nissan Skyline, 2004 թ. Tuning idealakan vichak$5,050",
+      "price": "$5050",
+      "year": "2004",
+      "url": "/item/8198247",
+      "image": "//s.list.am/g/277/21763277.jpg"
+    },
+    {
+      "title": "BMW 523i 1996$3,800",
+      "price": "$3800",
+      "year": "",
+      "url": "/item/7889388",
+      "image": "//s.list.am/g/601/20629601.jpg"
+    },
+    {
+      "title": "Nissan Tiida, 2005 թ.$3,200",
+      "price": "$3200",
+      "year": "2005",
+      "url": "/item/8181580",
+      "image": "//s.list.am/g/075/21762075.jpg"
+    },
+    {
+      "title": "Mercedes-Benz S, 1997 թ.$5,900",
+      "price": "$5900",
+      "year": "1997",
+      "url": "/item/8063195",
+      "image": "//s.list.am/g/078/21424078.jpg"
+    },
+    {
+      "title": "Nissan Teana AXIS 2006 թ.$5,300",
+      "price": "$5300",
+      "year": "2006",
+      "url": "/item/8174684",
+      "image": "//s.list.am/g/552/21699552.jpg"
+    },
+    {
+      "title": "Mercedes-Benz E 350, 2008 / 7 թ.$10,900",
+      "price": "$10900",
+      "year": "7",
+      "url": "/item/8181984",
+      "image": "//s.list.am/g/271/21704271.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 2001 թ. cupe kpoxanakel ejan meqenai hett$3,500",
+      "price": "$3500",
+      "year": "2001",
+      "url": "/item/7984635",
+      "image": "//s.list.am/g/554/21746554.jpg"
+    },
+    {
+      "title": "Opel Astra G Elegance, 1998 թ. / վթարված1,100,000 ֏",
+      "price": "1100000 ֏",
+      "year": "1998",
+      "url": "/item/8187073",
+      "image": "//s.list.am/g/970/21722970.jpg"
+    },
+    {
+      "title": "Nissan Fuga, infiniti M. 2009-2010 թ.",
+      "price": "",
+      "year": "",
+      "url": "/item/8188082",
+      "image": "//s.list.am/g/232/21726232.jpg"
+    },
+    {
+      "title": "Ikco Iran Cross H30 2016 թ.$7,500",
+      "price": "$7500",
+      "year": "2016",
+      "url": "/item/8146283",
+      "image": "//s.list.am/g/326/21574326.jpg"
+    },
+    {
+      "title": "Suzuki Swift 2006 թ. նոր բերված$2,900",
+      "price": "$2900",
+      "year": "2006",
+      "url": "/item/7796488",
+      "image": "//s.list.am/g/821/21495821.jpg"
+    },
+    {
+      "title": "Mitsubishi Airtrek, 2001 թ. 2.0l prastoy mator$4,600",
+      "price": "$4600",
+      "year": "2001",
+      "url": "/item/5779946",
+      "image": "//s.list.am/g/470/20339470.jpg"
+    },
+    {
+      "title": "Volkswagen Golf GTI, 1993 թ.$2,500",
+      "price": "$2500",
+      "year": "1993",
+      "url": "/item/8202650",
+      "image": "//s.list.am/g/130/21779130.jpg"
+    },
+    {
+      "title": "Mazda Verisa, 2008 թ.$3,750",
+      "price": "$3750",
+      "year": "2008",
+      "url": "/item/8157919",
+      "image": "//s.list.am/g/055/21616055.jpg"
+    },
+    {
+      "title": "Toyota Altezza$3,500",
+      "price": "$3500",
+      "year": "",
+      "url": "/item/8059571",
+      "image": "//s.list.am/g/090/21432090.jpg"
+    },
+    {
+      "title": "Mazda Verisa, 2008 թ.$3,750",
+      "price": "$3750",
+      "year": "2008",
+      "url": "/item/8157919",
+      "image": "//s.list.am/g/055/21616055.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C230 Coupe, 2001 թ.$5,500",
+      "price": "$5500",
+      "year": "2001",
+      "url": "/item/8068308",
+      "image": "//s.list.am/g/162/21287162.jpg"
+    },
+    {
+      "title": "Mercedes G55 AMG 2008թ փոխանակում Lexus GX460 prado GX 460 G500 G63 G550 G$52,000",
+      "price": "$52000",
+      "year": "",
+      "url": "/item/7607618",
+      "image": "//s.list.am/g/350/21784350.jpg"
+    },
+    {
+      "title": "Mercedes-Benz C, 1995 թ.$3,300",
+      "price": "$3300",
+      "year": "1995",
+      "url": "/item/8186156",
+      "image": "//s.list.am/g/373/21719373.jpg"
+    },
+    {
+      "title": "Mercedes-Benz Sprinter, 2009 թ.",
+      "price": "",
+      "year": "2009",
+      "url": "/item/7756740",
+      "image": "//s.list.am/g/365/20133365.jpg"
+    },
+    {
+      "title": "Toyota Mark X, 2006 թ. նոր բերված Հոկտեմբերի 1 ին$4,700",
+      "price": "$4700",
+      "year": "2006",
+      "url": "/item/8110528",
+      "image": "//s.list.am/g/613/21441613.jpg"
+    },
+    {
+      "title": "Nissan March, 2004 թ.$2,150",
+      "price": "$2150",
+      "year": "2004",
+      "url": "/item/8187186",
+      "image": "//s.list.am/g/314/21723314.jpg"
+    },
+    {
+      "title": "BMW 535i E 60 2009թ 4x4 poxanakum$14,000",
+      "price": "$14000",
+      "year": "",
+      "url": "/item/7844292",
+      "image": "//s.list.am/g/628/20457628.jpg"
+    },
+    {
+      "title": "Mazda CX-7, 2007 թ. Mercedes poxanakum$10,500",
+      "price": "$10500",
+      "year": "2007",
+      "url": "/item/7376132"
+    }
+  ]
+}
